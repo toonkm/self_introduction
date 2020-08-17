@@ -8,7 +8,7 @@
 
 ## 什麼也沒有的開頭
 
-辣雞編程學生一枚吧，雖然不會怎麼樣編(x。在香港讀software engineering，做任何事情也只有半桶水的能力，對什麼電腦語言也只停留在只會printf的階段，然後就不會了，未來只想坐在伺服器面前摸魚(x
+辣雞編程學生一枚吧，雖然不會怎麼樣編(x。在香港讀SE，做任何事情也只有半桶水的能力，對什麼電腦語言也只停留在只會printf的階段，然後就不會了，未來只想坐在伺服器面前摸魚(x
 
 ## 興趣
 
@@ -28,14 +28,10 @@
 
 ### 主要使用系統
 
-- 黑蘋果 MacOS 10.15.6(OpenCore 0.5.9，暫時沒有更換網路卡的想法，所以也與無線無緣)  
-- Windows10 專業版 2004 (主要玩遊戲才換回去)  
+- ~~黑蘋果 MacOS 10.15.6~~
+- Windows10 專業版 2004
 
-用黑蘋果的主要原因：“窮啊，要不然也想上實體。btw主要想學swift換了過去。然後就成為了日常使用的系統了，問題也沒有Xwindows多，果然是最舒服的Linux(x)。  
-
-還好吧，起碼terminal用起上來也比較省心。自帶zsh，xcode萬能，有比windows好的包管理，想有一個類Linux環境可是不想要Linux的bug(欽點Xwindow拖動還只支持60FPS，XWayland CPU高負載連60FPS也不能穩定)  
-
-AMD平台比較麻煩是MacOS下軟件是不會對AMD的虛擬化作支持，所以只要和虛擬化的東西也無緣(例如Docker，不過可以VirtualBox是有支持在Mac下使用Amd處理器作虛擬化的，目前也是用VirtualBox作Docker伺服器，日常使用也沒有什麼大問題)“
+好了我把黑蘋果搞壞了，還是老老實實用windows吧
 
 ### 輸入法
 
@@ -66,5 +62,3 @@ ios就不要irime了，作者還故意聲明會收集資料送中。所以換了
 - 耳機： Sony wf1000xm3，Sony wh1000xm2，Shure SE215 (一般情況也是用WF和WH，就看什麼天氣，SE215只會在玩音遊時使用)  
 - 手機： iPhone SE (2020) 64GB Black (主要)， Pixel 3a 64GB White
 - 遊戲機：  Nintendo Switch (初版)， Nintendo New 3DS，PSVita
-
-暫時就這樣吧，有空才補充。太累了 (凌晨2:46)
