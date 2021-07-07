@@ -28,10 +28,9 @@
 
 ### 主要使用系統
 
+- MacOS 11.4
 - ~~黑蘋果 MacOS 10.15.6~~
-- Windows10 專業版 2004
-
-好了我把黑蘋果搞壞了，還是老老實實用windows吧
+- ~~Windows10 20H2~~
 
 ### 輸入法
 
@@ -40,25 +39,26 @@ ios就不要irime了，作者還故意聲明會收集資料送中。所以換了
 
 ### 電腦
 
-- 台式電腦：  
+- 台式電腦(現在當服務器用）：  
     機箱： NZXT H210i ITX-Case White  
     CPU： AMD Ryzen 3 3700x  
     RAM： G.Skill Trident Z RGB 32GB (2 x 16GB) DDR4-3200  
     主機板： Asus ROG Strix B450-I GAMING B450 ITX  
     水冷： NZXT Kraken x52 240mm Liquid CPU Cooler  
-    GPU： SAPPHIRE PULSE RX 5700XT 8G GDDR6  
+    ~~GPU： SAPPHIRE PULSE RX 5700XT 8G GDDR6~~(賤價賣了給礦佬）
     PSU： Corsair RM 750 V2  
     儲存空間： Intel 660P 512GB NVMe, SSD 860 EVO 1TB SATA  
     顯示器： 左 Acer VG240Y，右Acer KG251Q  
-    鍵盤： OZONE Strike Battle (Cherry MX Blue Switch)  
+    鍵盤： Keychron K2
     鼠標： Logitech G502 Hero  
 
 - 手提電腦：  
-    Microsoft Surface Laptop I5-7200U 256GB SSD 8G RAM  
-    Microsoft Surface GO Intel Pentium 128GB SSD 8G RAM
+    MacBook Pro (13-inch, 2020, i5 16GB ram, 512GB)
+    ~~Microsoft Surface Laptop I5-7200U 256GB SSD 8G RAM~~（電池腫包）
+    ~~Microsoft Surface GO Intel Pentium 128GB SSD 8G RAM~~（太辣雞用來蓋杯麪了）
 
 ### 外設
 
-- 耳機： Sony wf1000xm3，Sony wh1000xm2，Shure SE215 (一般情況也是用WF和WH，就看什麼天氣，SE215只會在玩音遊時使用)  
+- 耳機： Airpod Pro, Sony wf1000xm3，Sony wh1000xm2，Shure SE215 (一般情況也是用Airpod Pro，SE215只會在玩音遊時使用)  
 - 手機： iPhone SE (2020) 64GB Black (主要)， Pixel 3a 64GB White
 - 遊戲機：  Nintendo Switch (初版)， Nintendo New 3DS，PSVita
